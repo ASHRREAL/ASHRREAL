@@ -1,181 +1,155 @@
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   ▄▄▄       ██████  ██░ ██     ▓█████ ▒██   ██▒▓█████                   ║
-║  ▒████▄   ▒██    ▒ ▓██░ ██▒    ▓█   ▀ ▒▒ █ █ ▒░▓█   ▀                   ║
-║  ▒██  ▀█▄ ░ ▓██▄   ▒██▀▀██░    ▒███   ░░  █   ░▒███                     ║
-║  ░██▄▄▄▄██  ▒   ██▒░▓█ ░██     ▒▓█  ▄  ░ █ █ ▒ ▒▓█  ▄                   ║
-║   ▓█   ▓██▒▒██████▒▒░▓█▒░██▓    ░▒████▒▒██▒ ▒██▒░▒████▒                 ║
-║   ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒    ░░ ▒░ ░▒▒ ░ ░▓ ░░░ ▒░ ░                 ║
-║    ▒   ▒▒ ░░ ░▒  ░ ░ ▒ ░▒░ ░     ░ ░  ░░░   ░▒ ░ ░ ░  ░                 ║
-║    ░   ▒   ░  ░  ░   ░  ░░ ░       ░    ░    ░     ░                    ║
-║        ░  ░      ░   ░  ░  ░       ░  ░ ░    ░     ░  ░                 ║
-║                                                                           ║
-║   > SYSTEM ONLINE_                                                       ║
-║   > Loading profile data...                                              ║
-║   > Status: READY                                                        ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+████████████████████████████████████████████████████████████████████████████████
+█                                                                              █
+█  ▄▀█ █▀ █ █ ░ █▀▀ ▀▄▀ █▀▀                                                   █
+█  █▀█ ▄█ █▀█ ▄ ██▄ █░█ ██▄                                                   █
+█                                                                              █
+█  > ROBCO INDUSTRIES UNIFIED OPERATING SYSTEM                                █
+█  > COPYRIGHT 2025 ROBCO INDUSTRIES                                          █
+█  > LOADER V2.5                                                              █
+█  > EXEC VERSION 41.10                                                       █
+█  > 64580 BYTES FREE                                                         █
+█  > NO HOLOTAPE FOUND                                                        █
+█  > LOAD ROM(1): DEITRIX 303                                                █
+█                                                                              █
+████████████████████████████████████████████████████████████████████████████████
 ```
 
 <div align="center">
-  
-### `[ WELCOME TO MY TERMINAL ]`
+
+### `TERMINAL LOCKED`
+### `PERMISSION LEVEL: PUBLIC`
+
+</div>
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ >SET TERMINAL/INQUIRE                                                       ┃
+┃                                                                             ┃
+┃ >RUN DEBUG/ACCOUNTS                                                         ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+## `[ INITIALIZATION COMPLETE ]`
 
 ```console
 $ whoami
-> Developer | Creator | Problem Solver
+ASH.EXE v1.0
 
-$ ls -la skills/
-> Coding, Building, Breaking, Fixing
+$ pwd
+/home/ash/github
 
-$ cat status.txt
-> Currently: [▓▓▓▓▓▓▓▓░░] 80% Coffee, 20% Code
-```
+$ cat README.txt
+Developer who likes making stuff that doesn't suck.
+Breaking things to figure out how they work.
+Fixing them after (usually).
 
-</div>
-
----
-
-## `>_ SYSTEM_INFO`
-
-```bash
-┌──(ash㉿terminal)-[~/profile]
-└─$ cat about.txt
-
- ┃ Building things that matter
- ┃ Breaking things that don't
- ┃ Learning everything in between
- ┃
- ┃ Location: [REDACTED]
- ┃ Status: ONLINE
- ┃ Mode: Development
+$ uptime
+Status: ONLINE | Mode: DEV | Coffee Level: CRITICAL
 ```
 
 ---
 
-## `>_ TECH_STACK.exe`
+## `[ TECH_STACK.DAT ]`
 
-```ascii
-┌─────────────────────────────────────────┐
-│  [LANGUAGES]                            │
-├─────────────────────────────────────────┤
-│  ▸ JavaScript  ▰▰▰▰▰▰▰▰▰░ 90%          │
-│  ▸ Python      ▰▰▰▰▰▰▰▰░░ 80%          │
-│  ▸ HTML/CSS    ▰▰▰▰▰▰▰▰▰▰ 95%          │
-└─────────────────────────────────────────┘
+```
+┌─ LANGUAGES ─────────────────────────────────────┐
+│                                                  │
+│  JavaScript  [████████████████░░░░] 80%        │
+│  Python      [███████████████░░░░░] 75%        │
+│  HTML/CSS    [█████████████████████] 95%        │
+│  C++         [████████████░░░░░░░░] 60%        │
+│                                                  │
+└──────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────┐
-│  [FRAMEWORKS & TOOLS]                   │
-├─────────────────────────────────────────┤
-│  ⚡ Node.js    🔧 Git                   │
-│  ⚛️  React      🐳 Docker                │
-│  🎨 Tailwind   📦 NPM/Yarn              │
-└─────────────────────────────────────────┘
+┌─ CURRENT_MODULES ───────────────────────────────┐
+│                                                  │
+│  [✓] Node.js      [✓] React                    │
+│  [✓] Git          [✓] Docker                   │
+│  [✓] Linux        [✓] MongoDB                  │
+│  [✓] Express      [✓] Three.js                 │
+│                                                  │
+└──────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `>_ CURRENT_PROJECTS.log`
+## `[ SYSTEM_LOGS ]`
 
 ```diff
-+ [ACTIVE] Building cool stuff
-+ [ACTIVE] Learning new technologies
-+ [STANDBY] Coffee consumption module
-- [DEPRECATED] Sleep schedule
+[2025-11-13 20:39:29] SYSTEM INITIALIZED
+[2025-11-13 20:39:30] LOADING USER DATA...
+[2025-11-13 20:39:31] STATUS: OPERATIONAL
+
++ Currently building: Cool shit
++ Also working on: More cool shit  
+! Warning: Sleep schedule not found
+- Error: Coffee.level below minimum threshold
 ```
 
 ---
 
-## `>_ GITHUB_STATS.sys`
+## `[ STATS.SYS ]`
 
 <div align="center">
 
-```ascii
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                      ┃
-┃   📊 SYSTEM DIAGNOSTICS              ┃
-┃                                      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                     DIAGNOSTIC REPORT                         ║
+╠═══════════════════════════════════════════════════════════════╣
 ```
 
-![ASH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASHRREAL&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=00ff00)
+<img src="https://github-readme-stats.vercel.app/api?username=ASHRREAL&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=008f11" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHRREAL&theme=dark&hide_border=true&background=0c0c0c&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=008f11" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHRREAL&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=00ff00)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHRREAL&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=00ff41&text_color=00ff41&border_color=008f11" width="48%" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ASHRREAL&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=00ff00)
+```
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## `>_ CONNECT.sh`
+## `[ RECENT_ACTIVITY.LOG ]`
 
-```bash
-#!/bin/bash
+<!--START_SECTION:activity-->
+```
+> Initializing activity feed...
+> Fetching recent commits...
+> Loading project data...
+```
+<!--END_SECTION:activity-->
 
-# Establishing connection...
-echo "Available channels:"
+---
+
+## `[ CONTACT.EXE ]`
+
+```
+┌─────────────────────────────────────────────────┐
+│ AVAILABLE COMMUNICATION CHANNELS:               │
+├─────────────────────────────────────────────────┤
+│                                                  │
+│  > Website:  https://your-site.com              │
+│  > Email:    your-email@domain.com              │
+│  > Discord:  ash#0000                           │
+│  > GitHub:   /ASHRREAL                          │
+│                                                  │
+└─────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/WEBSITE-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://your-website.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-39ff14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ASHRREAL)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00ff00?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/TWITTER-39ff14?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/your-handle)
+[![Website](https://img.shields.io/badge/WEBSITE-0c0c0c?style=flat-square&logo=google-chrome&logoColor=00ff41)](https://your-website.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-0c0c0c?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/ASHRREAL)
+[![Discord](https://img.shields.io/badge/DISCORD-0c0c0c?style=flat-square&logo=discord&logoColor=00ff41)](https://discord.com)
 
 </div>
 
 ---
 
-## `>_ VISITOR.count`
-
-```ascii
-╔═══════════════════════════════════╗
-║  VISITOR LOG                      ║
-╠═══════════════════════════════════╣
-║                                   ║
-```
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/ASHRREAL/count.svg)
-
-</div>
-
-```ascii
-║                                   ║
-╚═══════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-```console
-$ echo "Thanks for visiting!"
-> Thanks for visiting!
-
-$ sudo make me_a_sandwich
-> [sudo] password for visitor: 
-> Access granted. Let's build something cool together! 🚀
-
-$ _
-```
+## `[ PROJECTS.DB ]`
 
 ```
-┌────────────────────────────────────────────┐
-│  "Code is poetry, bugs are typos."         │
-│                          - ASH.EXE v1.0    │
-└────────────────────────────────────────────┘
-```
-
-![Terminal Animation](https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,100:00ff00&height=100&section=footer&text=SYSTEM%20END&fontSize=30&fontColor=000000&animation=twinkling)
-
-</div>
-
-```
-[CONNECTION TERMINATED]
-[█████████████████████] 100%
-> Goodbye!
-```
+> SELECT
